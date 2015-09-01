@@ -1,5 +1,5 @@
 # Open Eggheads
-*__Note__: This project orginated as student work designed to fulfill the requirements for the Fall 2015 [Capstone Design Studio](https://www.extension.harvard.edu/academics/courses/capstone-design-studio/14731) at the [Harvard Extension School](https://www.extension.harvard.edu/).*
+*__Note:__ This project orginated as student work designed to fulfill the requirements for the Fall 2015 [Capstone Design Studio](https://www.extension.harvard.edu/academics/courses/capstone-design-studio/14731) at the [Harvard Extension School](https://www.extension.harvard.edu/).*
 
 ## What is *Open Eggheads*?
 A personal web platform for professional academics that is easy to use, portable, and extensible.
